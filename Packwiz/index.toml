@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8f96b2177c0faed773be2905d1ef923ff2c9a7e5125cd0523d2641f748287f99"
+hash = "d71f137a72bc90667a4ef3a8243092ceaa41f1c79a17e405d6bdbe779f2183ad"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -357,6 +357,10 @@ file = "config/particle_core_config.toml"
 hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 
 [[files]]
+file = "config/particlerain.json"
+hash = "273485185a6d00da67be8e49fe85671ec1a66c91fa68a4160f26b879ab187dbd"
+
+[[files]]
 file = "config/phantomconfig.json5"
 hash = "59481783300a6fcd5b0460e1f28c12543f2502779394f26929950b256e679689"
 
@@ -374,7 +378,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "edc9945d42163d48b7a8c255facf0a2e8373a2c00d3cfd6eedb1be9fe9fc0ae9"
+hash = "ef92f2c34738eac3e7b3f15c2c0167ad85c45969683c079d61bf5f882ce3606e"
 
 [[files]]
 file = "config/respawningstructures.json"

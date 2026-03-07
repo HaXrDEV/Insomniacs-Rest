@@ -3,6 +3,10 @@
 	<img src="https://i.imgur.com/vJSzgGp.png" alt="Insomnia: Hardcore"/>
 </p>
 
+Name suggestions: 
+- The Insomniac’s Refuge
+- Insomniacs' Rest
+
 
 <!--Link Buttons-->
 <p style="text-align: center;">
