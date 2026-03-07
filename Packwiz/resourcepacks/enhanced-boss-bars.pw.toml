@@ -3,11 +3,11 @@ filename = "[1.5] Enhanced Boss Bars.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "19c7734e4ff42923d48d9a955ed522233a4199dd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/U5SedJ9S/versions/6Vuc4hhb/%5B1.5%5D%20Enhanced%20Boss%20Bars.zip"
+hash-format = "sha512"
+hash = "fff69783e92074066aaad7c761464d60b8b3cfc9477fb690524a309a877f164ec2caf1ab49733e7548ad331d240d48dad2d7da2242b09592cf5d1817b2df0680"
 
 [update]
-[update.curseforge]
-file-id = 7543365
-project-id = 580036
+[update.modrinth]
+mod-id = "U5SedJ9S"
+version = "6Vuc4hhb"

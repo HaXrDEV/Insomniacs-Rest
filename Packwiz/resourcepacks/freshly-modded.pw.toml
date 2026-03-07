@@ -4,11 +4,11 @@ side = "both"
 pin = true
 
 [download]
-hash-format = "sha1"
-hash = "9635cb4d2f1e242060978cd1e2ad7a4169510bc4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/u4nhiAdP/versions/tT8aAiHK/Freshly%20Modded%202.0.0.zip"
+hash-format = "sha512"
+hash = "7b048590dc243dd5db689b604e8dcd8228b0fa48aef4a75eb154e9c4bd194bda6299e318c61b585ccb95d152ea3da35d6edb793526a859eba835f96ca9490710"
 
 [update]
-[update.curseforge]
-file-id = 6947273
-project-id = 961754
+[update.modrinth]
+mod-id = "u4nhiAdP"
+version = "tT8aAiHK"

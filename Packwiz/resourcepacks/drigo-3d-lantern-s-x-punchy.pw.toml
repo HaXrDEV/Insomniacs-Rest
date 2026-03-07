@@ -3,11 +3,11 @@ filename = "Drigo 3D Lantern's x Punchy.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9bbd2298659e1edebac16ee9cec6d6b9c28955cd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/X4S78Ho4/versions/6kLzaY8b/Drigo%203D%20Lantern%27s%20x%20Punchy.zip"
+hash-format = "sha512"
+hash = "52c27c5d37d1a9486ca4878583e7809dfef104649e6793d7a42d50639cbed055c4824a93f6497d4382c28a3e6ed5c185ba9a0b46236850bcf811e5db09daa03c"
 
 [update]
-[update.curseforge]
-file-id = 7639363
-project-id = 1458402
+[update.modrinth]
+mod-id = "X4S78Ho4"
+version = "6kLzaY8b"

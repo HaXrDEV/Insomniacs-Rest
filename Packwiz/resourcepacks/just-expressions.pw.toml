@@ -3,11 +3,11 @@ filename = "JustExpressions_v1.1.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "071255c65ff31f40b96f25bc5711f2baed3186fd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vPaHlT2U/versions/bBYe8h0H/JustExpressions_v1.1.zip"
+hash-format = "sha512"
+hash = "3c3e5b9632a000b1289d1f972bb1a7d22226b44a7e53797d135688e619484aace8a0bf9b5131119e9e51f813394b24dc36615b0e81b32dd47ff459ddbe6b6aa0"
 
 [update]
-[update.curseforge]
-file-id = 5303215
-project-id = 1009214
+[update.modrinth]
+mod-id = "vPaHlT2U"
+version = "bBYe8h0H"

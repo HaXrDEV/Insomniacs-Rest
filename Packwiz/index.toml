@@ -1909,67 +1909,67 @@ hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "resourcepacks/alternative-rain-sounds.pw.toml"
-hash = "4051f93a2eabca8e89d2a408b4f8961469066ecaa2e16fb224bf77cbb863c13a"
+hash = "07cbda5bf5ba5a5a7fd8f4e3c5950b63bdc1151b927bfcc06340ffce64aa5dfc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/better-aquamirae-combat.pw.toml"
-hash = "3f1e8edcb36e70273c5725898993667dff929047fb69d1ebd5f77a5748f38b03"
+hash = "4a662b4f69c164e65c7856f13f4183ce3774d4c8cdd916c81cb030659e8869b7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/drigo-3d-lantern-s-x-punchy.pw.toml"
-hash = "235e6a85bfe7450ea8cbf64a1a3bc60e38ccbe9968e70512557d103154047ba8"
+hash = "b383ee8a5a0208f9d7d83bc08c9a21717c7d485686897d7a776f2734d9ba2b24"
 metafile = true
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "496de0aeee48cb7caa77aa72820e60db6d161c62ae3fa7039d5a57073d919d64"
+hash = "0aa4a901782eccd816a96ef565c015267fab80084ff2ef5751e571748d81c687"
 metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "03ebb6c26efea45a7bd0e020626cac631c3e0da01f4954e7fb34ae236d7e2457"
+hash = "455781c18819e6750ebb111e1a7d3cdc7f0ba0753fd65e3d254378461472c430"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "2ca0915d77d517822f91a7f3f07778cfcc181685ae6c69ba2b44ba3a2ef72cb5"
+hash = "4c26ddddc8ad2b0d09b0a0a84f8c709d29a8c89c4b69be64a1bb459bd2eff937"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "31b83961fa840a616da6be81c814fca8e6a3807a8203d17b027ddb044e3714cc"
+hash = "e1840741e821969d6f19f86e5890f7c755845a11f5f271aaa35f2c191beefdc7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-patch-variants-and-ventures.pw.toml"
-hash = "477ace9e07699f3fff52169c2d1b965f207a484aacbd018b50c3f13a77818c5f"
+hash = "f14b994cb001ccff26afca3143937d90f2647171445d5d703bff1cd0f1849988"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "9ec67e88b2aff3720a27dde232274a00e65b7ddc5e302a495d18bc41a42028a4"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-compats-emf.pw.toml"
-hash = "99c7fb6556e7c3678b8b8fd90a3500ace424d33ed85f00c0eb628004c526bf5d"
+hash = "cba3cab871b01056c4be30072f4bf070595df794d6346e984927ea32478f17e6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
-hash = "f367b626ae9ac26e951a1a5230c1deb31f33c7fac317771f010bda870995c461"
+hash = "881cbee661243598aca3142428d46290c02ba9ed7017f2f7b8f8e374d532de35"
 metafile = true
 
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
-hash = "37b6610d670c61b94200e1c9cba12c7f9b74dd00f4fac24c4abee1f2d04a4911"
+hash = "5438399529f2b10080d1358b3fa0232eecdcb065b0be590bf2861bd9868e47c1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "402c9c112221998e24e16f4186b0f6e2af923ee10dbb00a5ed0fb4fbafa8f05f"
+hash = "841804ccbe93cc1c68a1565ec47bb0c56e8e42b56e3d6caf4ef5d2fdf30342a7"
 metafile = true
 
 [[files]]
@@ -1979,12 +1979,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "0851ca47f3104048f705e0cc42a2ca54bbd3acb01ae9a12d0a945918aa1f05f3"
+hash = "91e88d99aab076c876a8d212a3825baa871d1c9e8ef553010fc7592c73ddb2ba"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "c0fec30bd6df36bdec97e7192fcfb5da2789d6982a28eceae2234ce3a4b03ee5"
+hash = "af0212473eca683b43396a8a28e5de3adcad2cbee947321d56585b2a8b1a79c6"
 metafile = true
 
 [[files]]
@@ -2184,13 +2184,14 @@ file = "resources/resourcepack/required/Insomnia Textures/pack.mcmeta"
 hash = "0bc12472f31f702646b0912f7cb93029fb9db23e772674f8a8db43f8f6b7da2d"
 
 [[files]]
-file = "shaderpacks/Photon-Shader.zip"
-hash = "8a0e0be7e959279a4b27cccc7fa5d3841a2d6401b0d0a889d01199d2d069f27e"
-
-[[files]]
 file = "shaderpacks/Photon-Shader.zip.txt"
 hash = "35f26a1cc9d7b4b279be7443131f12cb82ddb0ce0b8844c4a0be58d053b629a7"
 
 [[files]]
 file = "shaderpacks/README.txt"
 hash = "3e3a99b2a49261182d7416f235431c714fc8b504b0ba9f336f9a5255ff465993"
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "221916088743c032b47893b507a23f2a691d0c2358c268359ed22c66debd4849"
+metafile = true
