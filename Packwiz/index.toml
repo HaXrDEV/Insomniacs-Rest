@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "7b63060c25ad6b659c718885a12a9ba8a4ec9ecf0c9cdd40fdf5bf66e48e4281"
+hash = "f65e7e6a1077707f02c764130e19873348e2cd8e758d22dd0fd52c6c578a4bd8"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "a626833a2c1d38f39558c3871f63debeefecb79e038ef6ad38976ed3a1f420a3"
+hash = "4a74c68a6abe0ce1f8a52e060e19f6ab5af8c59ec54b73447edc6f124b2b0d74"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "62252cfa103c2511680800f5e5e53f745840629bb62ff6dfb9420e8f98c87636"
+hash = "ec284fa95f54fc38cf591e2702715664a709d0fc03f247edb30fef3fe2f6fe36"
 metafile = true
 
 [[files]]
@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e9eea35532c9634f2f007ba5a99297f2a320a32bfcbfa202802d159757fe7839"
+hash = "f11e8eb2c17f85b742b4240a3d17c15e320f5144d28472274e97aad4a5174fca"
 metafile = true
 
 [[files]]
@@ -1551,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "920e0e4d4853e86c2b29ce7b41ba53fc1922fffdf05aa633982978f1bbaacdb2"
+hash = "41c06f37256662a902847307dab5b2d0a381861578e208e5f6d61f02b142e4f8"
 metafile = true
 
 [[files]]
@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "7905f9aead66af62a613340bbfc08ff0a21456717e1875840586ef757837835a"
+hash = "226a02fda58b3cc9253fe346a8a3f17ed93f627130f214a989111a83eef25770"
 metafile = true
 
 [[files]]
@@ -1891,7 +1891,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "e0db4cf89b16317e3aa078289f6625c36c35fa106330ccf826cf25959d475134"
+hash = "2ad721d2c3e9684297671b0ce3c2a83538a0332ec2ffd4441f5cae7e19bcaabb"
 metafile = true
 
 [[files]]
@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "1e891ef643afc7b1377c003cc97f1e5587149c3d3973766944bbf7c74de72f4c"
+hash = "4652becdab411b091b9a23eb38b7eb3d7c756964f1686120bd9eee704cfa07cf"
 metafile = true
 
 [[files]]
@@ -2461,7 +2461,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "0aa6741b0e7841eedcb7694c0025c159200918972f63a469c4706cc31413d212"
+hash = "66560b93651e03fe7d2511458bf7c162470be7e0a7ded80e93ac35fa175ec912"
 metafile = true
 
 [[files]]
@@ -2626,7 +2626,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "8e6fecfd69065fe8dd77c6fd2610aaf55512a558c5199af14a71eed8c7a6d7c9"
+hash = "8a6fa227e38b6c20e3c593014e02c017386400f5cff9f19e0510896d5dd2f586"
 metafile = true
 
 [[files]]

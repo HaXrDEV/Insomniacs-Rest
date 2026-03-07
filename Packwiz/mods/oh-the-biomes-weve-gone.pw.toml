@@ -1,13 +1,13 @@
 name = "Oh The Biomes We've Gone"
-filename = "Oh-The-Biomes-Weve-Gone-Fabric-4.3.1.jar"
+filename = "Oh-The-Biomes-Weve-Gone-Fabric-4.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9fafb34c1e56916494e005555cfaf6355dce828f"
+hash = "954334a64f3089324903f6bc15dcbe2c76df8cfa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7585099
+file-id = 7703939
 project-id = 1070751
