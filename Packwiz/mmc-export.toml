@@ -1,0 +1,7 @@
+name = "InsomniacsRest"
+author = "CrismPack"
+description = ""
+
+[[File]]
+name = "packwiz-installer.jar"
+action = "remove"

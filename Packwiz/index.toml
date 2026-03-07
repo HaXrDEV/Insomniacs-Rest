@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "14f4d6192ffb4593d02368f88e6b9b5e6a5e6fc6b5dfd564bf03f1d4d2c49055"
+hash = "233c9103d7ec9ff17db40a1ad6dc880393946c9ae6da7769f04bc3e0f64ce7c7"
 
 [[files]]
 file = "config/darkness.json"
@@ -557,12 +557,20 @@ file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
+file = "instance.cfg"
+hash = "96da138f2f8396e85f9e271946b244c72fb0dbad1a460b83cdc00d5e40ff2aa3"
+
+[[files]]
 file = "kubejs/config/common.properties"
 hash = "b49d432567a56addd0fe7b28ec3845fa23a113a109bccb12601febf6163e25e8"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_scripts/sophisticated_backpacks.js"
 hash = "f7e933cb29333fcebd9d2e1243b2bec3475fad59743d382d500e7bfed45d7637"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "ca6869ae7dfb42476628d633e41c3749899fc1f7c3b16e11d693c517af64a322"
 
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
@@ -1815,11 +1823,6 @@ hash = "af5979f3caaa85ce69d0f1e3257fa63df29a6ac555ae6fa5596fe2e36e69b7e4"
 metafile = true
 
 [[files]]
-file = "mods/villagers-respawn.pw.toml"
-hash = "7587873e955b31c81589089002c9d0c972ac5dc7614355035d28737ec69685c5"
-metafile = true
-
-[[files]]
 file = "mods/voxy-worldgen.pw.toml"
 hash = "e7f29074af1c2c983b2658b79f2123184840e8a02868aa970a0c955b908452fb"
 metafile = true
@@ -1904,17 +1907,8 @@ file = "resourcepacks/GUI-Reimagined-Edit.zip"
 hash = "bf37f47ce901fdbb17a3c520329d313e29270ccd66e4c85ed1e5ecd05fa3f79f"
 
 [[files]]
-file = "resourcepacks/NoBushyLeaves.zip"
-hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
-
-[[files]]
 file = "resourcepacks/alternative-rain-sounds.pw.toml"
 hash = "07cbda5bf5ba5a5a7fd8f4e3c5950b63bdc1151b927bfcc06340ffce64aa5dfc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-aquamirae-combat.pw.toml"
-hash = "4a662b4f69c164e65c7856f13f4183ce3774d4c8cdd916c81cb030659e8869b7"
 metafile = true
 
 [[files]]
@@ -1973,18 +1967,13 @@ hash = "841804ccbe93cc1c68a1565ec47bb0c56e8e42b56e3d6caf4ef5d2fdf30342a7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "b2e81df889468eb25eded7a676bd2c1ed2bfe4bee088360211d641598d5818dc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "91e88d99aab076c876a8d212a3825baa871d1c9e8ef553010fc7592c73ddb2ba"
-metafile = true
-
-[[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "af0212473eca683b43396a8a28e5de3adcad2cbee947321d56585b2a8b1a79c6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
 metafile = true
 
 [[files]]
@@ -2184,14 +2173,13 @@ file = "resources/resourcepack/required/Insomnia Textures/pack.mcmeta"
 hash = "0bc12472f31f702646b0912f7cb93029fb9db23e772674f8a8db43f8f6b7da2d"
 
 [[files]]
+file = "shaderpacks/Photon-Shader.zip"
+hash = "8a0e0be7e959279a4b27cccc7fa5d3841a2d6401b0d0a889d01199d2d069f27e"
+
+[[files]]
 file = "shaderpacks/Photon-Shader.zip.txt"
 hash = "35f26a1cc9d7b4b279be7443131f12cb82ddb0ce0b8844c4a0be58d053b629a7"
 
 [[files]]
 file = "shaderpacks/README.txt"
 hash = "3e3a99b2a49261182d7416f235431c714fc8b504b0ba9f336f9a5255ff465993"
-
-[[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "221916088743c032b47893b507a23f2a691d0c2358c268359ed22c66debd4849"
-metafile = true

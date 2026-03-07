@@ -1,5 +1,6 @@
 export_client: True
 export_server: False
+breakneck_fixes: True
 client_export_use_mmc: True
 
 refresh_only: False
@@ -32,4 +33,4 @@ bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc
 
 repo_owner: "CrismPack"
 repo_name: "Insomniacs-Rest"
-repo_main_branch: "1.21.11-experimental"
+repo_main_branch: "1.21.11"

@@ -3,13 +3,9 @@
 
 # Exclude README
 /README.md
-
 /start_powershell_here.bat
 /Server Pack
 /mods/.vs
-
-
-# CLI Stuff
 /packwiz-installer.jar
 /mmc-cache
 /mmc-cache/*

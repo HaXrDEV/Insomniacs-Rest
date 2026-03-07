@@ -251,7 +251,6 @@
 - Variants&Ventures [Both]
 - Veinminer Enchantment [Both]
 - Village Spawn Point [Client]
-- Villagers Respawn [Both]
 - Voxy WorldGen [Both]
 - voxy [Client]
 - Wakes [Both]
