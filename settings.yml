@@ -1,5 +1,6 @@
 export_client: True
 export_server: True
+breakneck_fixes: True
 
 refresh_only: False
 update_bcc_version: True
@@ -30,5 +31,5 @@ auto_config_temperature: 0.40
 bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/insomnia/bhbanner.png"
 
 repo_owner: "CrismPack"
-repo_name: "Insomnia-Hardcore"
-repo_main_branch: "1.20.1"
+repo_name: "Insomniacs-Rest"
+repo_main_branch: "1.21.11-experimental"
