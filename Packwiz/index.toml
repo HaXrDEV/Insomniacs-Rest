@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "233c9103d7ec9ff17db40a1ad6dc880393946c9ae6da7769f04bc3e0f64ce7c7"
+hash = "7dbef70639caaa1d9e469620aeca98f984fd37cdac743ed31cb40d1f25dde2d6"
 
 [[files]]
 file = "config/darkness.json"
@@ -265,10 +265,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "78917bb9e5fffcbcb97d850f077c2f4502d0a114760a85faaa9856d8989481c9"
-
-[[files]]
 file = "config/friendsandfoes.json"
 hash = "4b308c821f68512de8742bf3bdabbea379ca0a2cb058a8986b6d280610577b14"
 
@@ -303,10 +299,6 @@ hash = "a6487a92015ef8fab1bffbd909c959e6c05ecde96d62be59c21b4e2200d20fab"
 [[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "2edf2dc9c2a4b27d4b17d8e8693ad9ff234b96c8863bd62616192487d3a71b90"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "3b2f611253d4020b9d6fad3d4a816da526cdd18778434c4a4063c00f81db1ccb"
 
 [[files]]
 file = "config/logbegone.toml"
@@ -457,10 +449,6 @@ file = "config/tconstruct-client.toml"
 hash = "5fbd1a91ff93cecc3ea20936cb44bacfcaa1ba2ac6b127abf581a8dd6b8aa144"
 
 [[files]]
-file = "config/threads.json"
-hash = "d5c040a12fe045a20a5afc63acebf97b0ccaf46e555a0c9f9ef21fa7181245e0"
-
-[[files]]
 file = "config/threadtweak.json"
 hash = "42a38e05a8114607dd54b5888b04ea18bba8c284df9f5c2996bd4d9bef379c59"
 
@@ -474,7 +462,7 @@ hash = "f3d2d7fbeb541d98c0138f2133408384c4206afd38d0130cf2d17e9e78c60f16"
 
 [[files]]
 file = "config/voxyworldgenv2.json"
-hash = "00bc3b3e0b65484223c70311fee46b895be7bea99fbb96ab0b7746bf424e7fda"
+hash = "aced67295604c32454cdf6190e284941dc193a1d58c9264869e2bf35894ede2f"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -778,11 +766,6 @@ hash = "4dd5ade03f54ab3133269cb6538bceb563139bab4d3d73bdb7ca2a15c9edc552"
 metafile = true
 
 [[files]]
-file = "mods/common-network.pw.toml"
-hash = "220fd16516d62437ea9b64814ff820b5f9190ecdfa88414bbbc751f6cbb45186"
-metafile = true
-
-[[files]]
 file = "mods/compact-help-command.pw.toml"
 hash = "42c233c96a217f671a487c4fae8bb6e697cf3357606bd380002cf37ffab5c81d"
 metafile = true
@@ -910,11 +893,6 @@ metafile = true
 [[files]]
 file = "mods/dnt-swamp-hut-overhaul.pw.toml"
 hash = "af122fd783ae58b26f36f8f5eef8a953faea92e8dbcaa8cff9011967796d9849"
-metafile = true
-
-[[files]]
-file = "mods/dripsounds-fabric.pw.toml"
-hash = "062a1e685f7993953886c40fdfdd4106726081da54e7e6cde014c946c7948475"
 metafile = true
 
 [[files]]
@@ -1917,11 +1895,6 @@ hash = "b383ee8a5a0208f9d7d83bc08c9a21717c7d485686897d7a776f2734d9ba2b24"
 metafile = true
 
 [[files]]
-file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "0aa4a901782eccd816a96ef565c015267fab80084ff2ef5751e571748d81c687"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "455781c18819e6750ebb111e1a7d3cdc7f0ba0753fd65e3d254378461472c430"
 metafile = true
@@ -2085,46 +2058,6 @@ file = "resources/resourcepack/required/Insomnia Lang/pack.mcmeta"
 hash = "3e851073d567e458102962f402a4f8257ba7217b22f1722e6ebbddd56fde8349"
 
 [[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/models/block/birch_leaves.json"
-hash = "5744637b0e3a067eaf1e453a0200dad5716492b0e78fbac22312dbef31a65307"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/optifine/color.properties"
-hash = "ba036ff69c25f757efebfb448cb7de50f71dc6668e9de5068d7f7b481f6d38b4"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/block/birch_leaves.png"
-hash = "35eeff8cb64529c4bc2ee7b2dc2f40ebb8c06328408fd8cd42d9ff5052b0800b"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/colormap/grass.png"
-hash = "e0d8e34b7765f620d5fff26b93f476491b7aed3ce936922d2ea2c443a159f69b"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png"
-hash = "946c4d7d1de80ce3f088023a789f45c4c1c59b16a30d06dba6fc296848475b70"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/type/desert.png"
-hash = "cf6193d9501f15e536ef1730419d1490ceabf9b7474075611a849fbde980e858"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/zombie_villager.png"
-hash = "672624ba490e5c27abfbe408a239285690fa148a5cfb57836ea684bcb532003b"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/travelerstitles/lang/en_us.json"
-hash = "14960a97340bb4bacd0cdac0cafdd902d2847d62751c7e82a43593150d380205"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/assets/travelerstitles/lang/uk_ua.json"
-hash = "a03702f6fa5305f22b7528cd4b87380a793c432f8c9750dec56a15fed6047168"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Patches/pack.mcmeta"
-hash = "7458d3c95ce5c858ef2653daacf56cd4bb4fd47366793a15644744882613648d"
-
-[[files]]
 file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/options_background.png"
 hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
 
@@ -2151,18 +2084,6 @@ hash = "69dcb605c750da0c36894c29c0d1b685dc2b98700f40411dd6a7905f3cb1605a"
 [[files]]
 file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "fbf7fd6814b9e1ae3c5722ab3d2ae8943791996c76933a2252da5cf6bbc83a4f"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/edition.png"
-hash = "45fdd2be5a983af2ad250923ca159c55231e2dfd314eab83ffec834cc2cecd50"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "255131a8f0bedb65836257c054c974dfbaecb38ed392661968e493ef93365660"
-
-[[files]]
-file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/mojangstudios.png"
-hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
 [[files]]
 file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/widgets.png"
