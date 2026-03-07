@@ -1,5 +1,6 @@
 export_client: True
-export_server: True
+export_server: False
+client_export_use_mmc: True
 
 refresh_only: False
 update_bcc_version: True

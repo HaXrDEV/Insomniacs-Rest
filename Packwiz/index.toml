@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e1458498e7ddc6824b6a736b3ae3d49ad5077c584c0a4a6abbbc23d034f6dade"
+hash = "14f4d6192ffb4593d02368f88e6b9b5e6a5e6fc6b5dfd564bf03f1d4d2c49055"
 
 [[files]]
 file = "config/darkness.json"
@@ -835,11 +835,6 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "6f3aa6e9d209a7eaa2c373294c0e59cdf116e498d43e7e57b76844f2bc368a02"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "be147921d036a4e0dcc243a755ca3597833f10a522856b73a36d2ef358e859c5"
 metafile = true
@@ -1282,41 +1277,6 @@ metafile = true
 [[files]]
 file = "mods/log-cleaner.pw.toml"
 hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-bygone-nether-it-takes-a-pillage.pw.toml"
-hash = "15af8ee91d7ef975c56b31426a3a874c522180c8000d0d4dd1051fe92e12f34a"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-formations-overworld-nether.pw.toml"
-hash = "8533b8afdb5115b420862c709527c9b9109908e16cb5679c8834a3861477c742"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-medieval-buildings-end.pw.toml"
-hash = "4faec0ceab917b19d5bc9a85cc0d64ec737d4248b2f3749b39f01ee6b474ff3e"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
-hash = "454c9be1c3fe7bccec4bbdc6cdb660218bc32da8bf64f67c3c7e47c649d8a837"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-philips-ruins.pw.toml"
-hash = "aad2485b7897747d413bfad963f1287aa3bb271df5845824e3343e1315183b3a"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-towns-and-towers.pw.toml"
-hash = "4c07e892ff2fa254acab3a5a125322eb9b9a48aec76905a9335621255444eebf"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations.pw.toml"
-hash = "2ad721d2c3e9684297671b0ce3c2a83538a0332ec2ffd4441f5cae7e19bcaabb"
 metafile = true
 
 [[files]]
@@ -1805,11 +1765,6 @@ hash = "feeb868ca61752e1be01315b39248fad8a60f62a5eff28be039ac7bc237851d7"
 metafile = true
 
 [[files]]
-file = "mods/threads.pw.toml"
-hash = "a5d33062b59a3dfcb69cbcac435778d4b383226fb06b3f4dd25c8b0c445bb5c5"
-metafile = true
-
-[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "8aec714507a8cc1982238fc110a0c938110fd07a514c39722d083e73b7764272"
 metafile = true
@@ -1932,11 +1887,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
-metafile = true
-
-[[files]]
-file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "64d3781b6b402f394c54592cda703fc1e551530ad0131b8b6e480cb91434bd6d"
 metafile = true
 
 [[files]]
