@@ -3,11 +3,11 @@ filename = "crawl-mc1.21.11-fabric-0.15.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "188e87b446fdad33748a71d72b6b6f1d9a4f8afd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/H1JOVjhn/versions/Ias4IRqo/crawl-mc1.21.11-fabric-0.15.0.jar"
+hash-format = "sha512"
+hash = "d50115180e488fc74b349fec432ed12f273acee4e56ccf9d8a49df434af333338919dceae08e58f47dcfd3c27292c7fc6733a2de75ee0d4af6d1a494b164c912"
 
 [update]
-[update.curseforge]
-file-id = 7340245
-project-id = 314579
+[update.modrinth]
+mod-id = "H1JOVjhn"
+version = "Ias4IRqo"

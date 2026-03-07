@@ -3,11 +3,11 @@ filename = "EnchantingInfuser-v21.11.1-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7beae1d56f01c91541cbe45bb84f5694472aa855"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ePv85y52/versions/99nwj8OX/EnchantingInfuser-v21.11.1-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "6f7e40995a7d8607d34b374e57714ee53b848552b72067f83006160c462dbaf3a23c8dda552e7e248caf7b9a5555a2308eae5a5900dda2789fc4f93302ca287c"
 
 [update]
-[update.curseforge]
-file-id = 7354841
-project-id = 551151
+[update.modrinth]
+mod-id = "ePv85y52"
+version = "99nwj8OX"

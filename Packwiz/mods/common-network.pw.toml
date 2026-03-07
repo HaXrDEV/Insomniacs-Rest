@@ -3,11 +3,11 @@ filename = "common-networking-fabric-1.0.22-1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "017b61c7ca40215dca264df847c62fb68182d57e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/XcmNR0QN/common-networking-fabric-1.0.22-1.21.11.jar"
+hash-format = "sha512"
+hash = "11fdd4ebfb133866fb09e7f2314d9e1be34ea2ffee4d9a687276391f44733242ca5684704e00a310d81b94d534327f0ea592386705835b653c1339335022e306"
 
 [update]
-[update.curseforge]
-file-id = 7313227
-project-id = 806044
+[update.modrinth]
+mod-id = "HIuqnQpi"
+version = "XcmNR0QN"

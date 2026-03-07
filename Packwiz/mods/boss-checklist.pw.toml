@@ -3,11 +3,11 @@ filename = "boss_checklist-3.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fdbeeb36f72df692057be68133584c3de2b90ef3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z1Dv56jq/versions/wZ7RgIoB/boss_checklist-3.4.0.jar"
+hash-format = "sha512"
+hash = "4aa3a9e0379f93d2e5e2f265af46028e721c928a1dcfb9c755e953e42c5cfff15caf52f9d89d47f4e8d491ab721e66b1cc597f47d82c974843a2373e5e608580"
 
 [update]
-[update.curseforge]
-file-id = 7523037
-project-id = 1355708
+[update.modrinth]
+mod-id = "z1Dv56jq"
+version = "wZ7RgIoB"

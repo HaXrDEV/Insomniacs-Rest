@@ -3,11 +3,11 @@ filename = "configurable-3.3.2+1.21.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59e3c7c8457673516a82ab36f5ee352f759f0e3e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/jIjsSVfP/configurable-3.3.2%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "92a895c5e07a65541b53a3258c1f80ebb13893d079d5985abce69d66eaa8d7af609e67b0f04c410280d33ef137f7d626a63d7ae08c5e2e0e18c53aa64e3e14fc"
 
 [update]
-[update.curseforge]
-file-id = 7356781
-project-id = 1092048
+[update.modrinth]
+mod-id = "lGffrQ3O"
+version = "jIjsSVfP"

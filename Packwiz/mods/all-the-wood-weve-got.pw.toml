@@ -3,11 +3,11 @@ filename = "All-The-Wood-Weve-Got-Fabric-4.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1641de433565a5281f6044816bf5bb623fd32555"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qvq8iHWh/versions/gtjHkvQ2/All-The-Wood-Weve-Got-Fabric-4.3.1.jar"
+hash-format = "sha512"
+hash = "911553c5973529e96635106d5fbeade4999ba1b00e01623e5f6edf8dc5022fd107f7311c6e60677c7b4e44ee562714eafc0c921379cee87239bdc7e763bb6d72"
 
 [update]
-[update.curseforge]
-file-id = 7432229
-project-id = 1138171
+[update.modrinth]
+mod-id = "qvq8iHWh"
+version = "gtjHkvQ2"

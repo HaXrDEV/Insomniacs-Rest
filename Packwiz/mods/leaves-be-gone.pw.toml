@@ -3,11 +3,11 @@ filename = "LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2d31e9d6f10766cd6cc99789fded577ca650e3f6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AVq17PqV/versions/RhFHpbMN/LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "34b7218b973aad2ab079e58167a0d493dc0a57eda0ae1f980839e21411abf7fdda0d37bd6633f1b7c59aa7bc09d1043c6bdb2a6fab3f2ecadc1676448bad7385"
 
 [update]
-[update.curseforge]
-file-id = 7329902
-project-id = 686435
+[update.modrinth]
+mod-id = "AVq17PqV"
+version = "RhFHpbMN"

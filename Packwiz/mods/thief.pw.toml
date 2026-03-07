@@ -3,11 +3,11 @@ filename = "thief-fabric-1.21.11-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0cc09c9f8e5597da66c5e7b5e71ba006270ad12f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dGtSkt4t/versions/iSPFtlG3/thief-fabric-1.21.11-1.2.3.jar"
+hash-format = "sha512"
+hash = "bd56bd60773efe661ed76276be98b81b02739a5e7a97ed79224d9210d7b64c4d7267b981828c7c10ffdedd8f0f41ea673bbbc1244505472a09201beceb57eb28"
 
 [update]
-[update.curseforge]
-file-id = 7667292
-project-id = 839159
+[update.modrinth]
+mod-id = "dGtSkt4t"
+version = "iSPFtlG3"

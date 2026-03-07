@@ -3,11 +3,11 @@ filename = "DnT-ocean-monument-overhaul-v2.2 [Fabric].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "76815853566f83b82282e47d50c5e6dac4290266"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z6GJ3ycD/versions/mJJ8TcJi/dungeons-and-taverns-ocean-monument-overhaul-v2.2.jar"
+hash-format = "sha512"
+hash = "39816f33cdabe80e249d750ecfecfacbdb5a4d889a5877111ff9fd60c8be5b6696494dc56660044432eff58526bf23c79ba70bf1cf3bda93a21e20ff1ebaed31"
 
 [update]
-[update.curseforge]
-file-id = 7320671
-project-id = 1053227
+[update.modrinth]
+mod-id = "z6GJ3ycD"
+version = "mJJ8TcJi"

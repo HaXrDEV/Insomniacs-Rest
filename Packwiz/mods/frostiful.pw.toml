@@ -3,11 +3,11 @@ filename = "frostiful-2.3.3+1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "49aa0ed66266bfba1fc501c9f83af93f7f8b9de9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/3jriFmfO/frostiful-2.3.3%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "99e7c45dadfc0dbce25e4724650c3feb11d70f18ef17dc8ef531e63eab39f8fa6b5028ed2ab6fe040dc9cdecfefc619b3a3bfc1192f9544863d1248626cc3f98"
 
 [update]
-[update.curseforge]
-file-id = 7555605
-project-id = 715248
+[update.modrinth]
+mod-id = "Ae6qoBj3"
+version = "3jriFmfO"

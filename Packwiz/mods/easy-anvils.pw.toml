@@ -3,11 +3,11 @@ filename = "EasyAnvils-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "497c960ead200122d54f5cdb710c393f16839aab"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/Ti2RnQEI/EasyAnvils-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "530217082476d85d0e307dd2a977eda85dcad044eea33700883ebbd7b399b04f39222cad2415d2585c039fa9bbb533730565de4b7ac0087c25fc3291f0cf0866"
 
 [update]
-[update.curseforge]
-file-id = 7345078
-project-id = 682567
+[update.modrinth]
+mod-id = "OZBR5JT5"
+version = "Ti2RnQEI"

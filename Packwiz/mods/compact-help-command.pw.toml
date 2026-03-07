@@ -3,11 +3,11 @@ filename = "compacthelpcommand-1.21.11-2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ac2347e38aa322b1c2edbfbd14d5aaf1f071ef0b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XdiGl7ZL/versions/OIqmkkly/compacthelpcommand-1.21.11-2.8.jar"
+hash-format = "sha512"
+hash = "69022c6cbb70b1821a0a19e8f15f69515a276d2a8ac10555db01418fe6333e755b81512047260441780d37d1055c0fa99e21b4ef131307a3d9527a9f405ff45c"
 
 [update]
-[update.curseforge]
-file-id = 7318844
-project-id = 515753
+[update.modrinth]
+mod-id = "XdiGl7ZL"
+version = "OIqmkkly"

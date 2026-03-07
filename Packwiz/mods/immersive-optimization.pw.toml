@@ -3,11 +3,11 @@ filename = "immersive_optimization-fabric-1.21.11-0.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "364485aaac2c27848742310810baff63719afb2d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/8CL8kG3K/immersive_optimization-fabric-1.21.11-0.1.4.jar"
+hash-format = "sha512"
+hash = "9beee4c4dba2b06ccef1021d8569d579046e4269ce94b6ff0457807f38419eccf0abaeb0ecf8646762bc7f359459c27e93199ffc9651729ac8552b4f5fbbd916"
 
 [update]
-[update.curseforge]
-file-id = 7695573
-project-id = 1163206
+[update.modrinth]
+mod-id = "vNZgQmjg"
+version = "8CL8kG3K"

@@ -3,11 +3,11 @@ filename = "restrictedportals-fabric-1.21.11-1.6.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "401aca602e972377f830c08029934feb3bfd0baf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kGd0Bwtw/versions/6qjHYv1G/restrictedportals-fabric-1.21.11-1.6.5.jar"
+hash-format = "sha512"
+hash = "7dfc6f8032edd6cf48ab8c886e2c6f8a121aea1884d3c4e58d198edad13760270ce6fc304011be6d5a820d6a3feec6f15e2822fc0c559b884d673d96f28bda3a"
 
 [update]
-[update.curseforge]
-file-id = 7479670
-project-id = 228266
+[update.modrinth]
+mod-id = "kGd0Bwtw"
+version = "6qjHYv1G"

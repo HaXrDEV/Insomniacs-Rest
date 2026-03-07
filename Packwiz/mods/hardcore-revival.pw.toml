@@ -3,11 +3,11 @@ filename = "hardcorerevival-fabric-1.21.11-21.11.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a40fd0cf06e4b0909ef853a4c687d56749cc078"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/wPrX0GfG/hardcorerevival-fabric-1.21.11-21.11.5.jar"
+hash-format = "sha512"
+hash = "0043be21ef3aaf728a68c0ec0a80231cd49e20c60344ff929855039e99efbcba27b9270dc92b3cd39bd61ead7d5603f353326370ef286535bd9605467fad096e"
 
 [update]
-[update.curseforge]
-file-id = 7658928
-project-id = 274036
+[update.modrinth]
+mod-id = "HqKoXaXz"
+version = "wPrX0GfG"

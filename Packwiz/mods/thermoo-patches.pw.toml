@@ -3,11 +3,11 @@ filename = "thermoo-patches-4.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2efade043fd8d765906e8dabf2ba19d2a68ad06f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TYRF9nUy/versions/ZC8wP0Gl/thermoo-patches-4.0.0.jar"
+hash-format = "sha512"
+hash = "58ca0a41d586e7ec958f85161a6a328f9b91d27b330d08d7b90238347b7d9ab9a7a1ad1c2887780bed6aa30564a62e1582578b9cf626184b7bdaed1174778a89"
 
 [update]
-[update.curseforge]
-file-id = 7555268
-project-id = 1012677
+[update.modrinth]
+mod-id = "TYRF9nUy"
+version = "ZC8wP0Gl"

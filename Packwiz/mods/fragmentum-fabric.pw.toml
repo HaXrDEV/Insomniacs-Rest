@@ -3,11 +3,11 @@ filename = "fragmentum-fabric-1.21.11-3.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "20ea53b1c07ad5e063ef139ba649bfb7711e627e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/49C5QgTK/versions/ODAAcjnf/fragmentum-fabric-1.21.11-3.0.4.jar"
+hash-format = "sha512"
+hash = "83ef8ac3ff6936575a95d85895efa8dfda606b1b1137d215b89f519de68389fff4c8f823fc84ddde2dd984e0451d1a5b30d95b26d193083cf9a24d4cc53bec2f"
 
 [update]
-[update.curseforge]
-file-id = 7639410
-project-id = 1123974
+[update.modrinth]
+mod-id = "49C5QgTK"
+version = "ODAAcjnf"

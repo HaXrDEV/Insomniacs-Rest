@@ -3,11 +3,11 @@ filename = "Oh-The-Trees-Youll-Grow-fabric-1.21.11-9.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6b59139557e5b459168e39e5f0f1a6d2402c3982"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/RttF1Lcs/Oh-The-Trees-Youll-Grow-fabric-1.21.11-9.0.0.jar"
+hash-format = "sha512"
+hash = "baaba419736f67fe35b4699e720c9ed5a0b1dc3fb782711b741c0c6615c13ef24fbf53edd353ec6d6b8125894466d036b18b5d92213880eb5f3b468243b47c99"
 
 [update]
-[update.curseforge]
-file-id = 7363759
-project-id = 962544
+[update.modrinth]
+mod-id = "g8NOG5OR"
+version = "RttF1Lcs"

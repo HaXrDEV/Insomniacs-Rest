@@ -3,11 +3,11 @@ filename = "friendsandfoes-fabric-4.0.21+mc1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a9d005d9dcc748033cdf30a2433171d8ec1b38b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/PjL3SFdi/friendsandfoes-fabric-4.0.21%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "ae02b82cbc7ac474b6beca15c83012e10329fda47df73c5b05d07bfe535d5f67d87a8b46014793d17f84b3b7634d5814088e8c98f1c9bb71999217eee447c3e8"
 
 [update]
-[update.curseforge]
-file-id = 7680878
-project-id = 551364
+[update.modrinth]
+mod-id = "POQ2i9zu"
+version = "PjL3SFdi"

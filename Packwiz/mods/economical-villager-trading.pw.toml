@@ -3,11 +3,11 @@ filename = "economical-villager-trading-1.7.0+MC1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6b2c3f4bfa47f6133de73ba068e3ac18e1c7506"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MpaztjRf/versions/Q7GVUjSh/economical-villager-trading-1.7.0%2BMC1.21.11.jar"
+hash-format = "sha512"
+hash = "27ffed8344a7bfc6300886904a83078dc97999dd4b72047f51da10b344d18a7b7965f2cb0a71a5b1b28e859115fd7ead5a6b896c082b7244d78876970c5a6e33"
 
 [update]
-[update.curseforge]
-file-id = 7368070
-project-id = 395573
+[update.modrinth]
+mod-id = "MpaztjRf"
+version = "Q7GVUjSh"

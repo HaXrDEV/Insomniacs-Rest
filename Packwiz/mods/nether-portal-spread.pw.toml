@@ -3,11 +3,11 @@ filename = "netherportalspread-1.21.11-8.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e63059855d70c7f613d190e6dd3263b41046ba9f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/stLIuN4N/netherportalspread-1.21.11-8.4.jar"
+hash-format = "sha512"
+hash = "d7ee42d8fc9771f564a38e89798fd22dd6f79fd910c2ef324a4939f77d9af06b809c08be35136d316439c1f572ea53fbfd11071d8fa9ecab71a601801fe09ff4"
 
 [update]
-[update.curseforge]
-file-id = 7320312
-project-id = 342097
+[update.modrinth]
+mod-id = "z7UX4SHt"
+version = "stLIuN4N"

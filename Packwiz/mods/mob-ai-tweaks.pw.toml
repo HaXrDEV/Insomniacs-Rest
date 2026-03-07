@@ -3,11 +3,11 @@ filename = "mob-ai-tweaks-1.10.0-1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "840e467cb7ee072132c479a0b919d5e882bd3c23"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/egIM2bKK/versions/u9LvrCFg/mob-ai-tweaks-1.10.0-1.21.11.jar"
+hash-format = "sha512"
+hash = "1d67017f85f86e7f9359443fbea38b1615315b4fc6aa419b23e2a2d2edec15b46827ac5d3f1da14ce727c3ee6cea3d4ad4fddfdc30bc9982c2fc230ac5caa12f"
 
 [update]
-[update.curseforge]
-file-id = 7549917
-project-id = 1077291
+[update.modrinth]
+mod-id = "egIM2bKK"
+version = "u9LvrCFg"

@@ -3,11 +3,11 @@ filename = "FallingTree-1.21.11-1.21.11.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ad3104635dffaf8b5b532b4276f6d034665bd38b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Hnj3s9Ez/FallingTree-1.21.11-1.21.11.3.jar"
+hash-format = "sha512"
+hash = "56b8b86846e65f9e070ee08af1baf0b8871ea5eb233a43961d0f937a6147f039eed44794a6b3661b4748e4da037e40aa48b903936960585b626bc9f5e9e308d9"
 
 [update]
-[update.curseforge]
-file-id = 7576599
-project-id = 349559
+[update.modrinth]
+mod-id = "Fb4jn8m6"
+version = "Hnj3s9Ez"

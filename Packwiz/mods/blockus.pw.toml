@@ -3,11 +3,11 @@ filename = "blockus-2.15.1+1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "72675813b2d9f277ef15e0a490536050d303760b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/REyn5V31/blockus-2.15.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "d12c8c79eab0e46a73118c520d89da86d049af7c00a93e928f0998b61e9028c3bae20d98cf72e3b3585b7a9dcc3e09075cd93fbfc943ae3f11bb721f9703434b"
 
 [update]
-[update.curseforge]
-file-id = 7711776
-project-id = 312289
+[update.modrinth]
+mod-id = "zFiY2Go0"
+version = "REyn5V31"

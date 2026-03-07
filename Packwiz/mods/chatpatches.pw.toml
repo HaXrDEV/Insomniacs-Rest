@@ -3,11 +3,11 @@ filename = "chatpatches-8.0-alpha.7+1.21.11-fabric.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f064802e8c182a468eb0cc15a958b90349c532a0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/49fhleVN/chatpatches-8.0-alpha.7%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "2b1bb342e417848248aa6e59a2ea96b2eda114f5a72464faa82e38ef5c3b46b12d542f1b12208f7c1c8a85fd46712579eb753e16a4ec7863baa4c578965469b1"
 
 [update]
-[update.curseforge]
-file-id = 7367621
-project-id = 560042
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "49fhleVN"

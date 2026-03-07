@@ -3,11 +3,11 @@ filename = "MetalBundles-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7b4f38afb59bf55d10c308c82652aa18cda706cd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6pY6oEMg/versions/a88KETrE/MetalBundles-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "00a671b0d803743cdbbf974532fe71108ca7901e2b9f16ebaabb8c6a6cd0c2cfa8210af52c8fae920a9ceda366b219125e4f55a23195187449daefe426693cef"
 
 [update]
-[update.curseforge]
-file-id = 7337332
-project-id = 891325
+[update.modrinth]
+mod-id = "6pY6oEMg"
+version = "a88KETrE"

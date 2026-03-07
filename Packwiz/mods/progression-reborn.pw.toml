@@ -3,11 +3,11 @@ filename = "progression-reborn-1.21.11-v1.7.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a922fc8778fb07ce1204c9c10573abdc3114d4a5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PE2WMGd2/versions/yf6nsLzw/progression-reborn-1.21.11-v1.7.17.jar"
+hash-format = "sha512"
+hash = "9082e73e232d836643ffd6609a6ae0d84e3e353a96cb951e46763e6051ccb5b4192dc86e80112f40d54ee39728768587f815d4c92f3ab5b068e9787967c9cb19"
 
 [update]
-[update.curseforge]
-file-id = 7582914
-project-id = 959547
+[update.modrinth]
+mod-id = "PE2WMGd2"
+version = "yf6nsLzw"

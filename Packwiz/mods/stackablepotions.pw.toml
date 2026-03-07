@@ -3,11 +3,11 @@ filename = "stackablepotions-1.0.0+1.21.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e43d24493a15ab6619d7cb01fddf91452c0566c6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yppxDTPT/versions/Hx8LyEbB/stackablepotions-1.0.0%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "b2eb28ddd863f81290dc5421bcdc805927563d5eb67dd33c3e1cb24e366f5bd7cd6a6632e857bbf0d2e0891edcef49525c75e8d45630e5778e779c3791bdb532"
 
 [update]
-[update.curseforge]
-file-id = 7645494
-project-id = 396596
+[update.modrinth]
+mod-id = "yppxDTPT"
+version = "Hx8LyEbB"

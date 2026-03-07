@@ -3,11 +3,11 @@ filename = "obscure_tooltips-fabric-1.21.11-5.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "92bad542cd6616df1242693198ccdb9e399d8a47"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5vetjDBY/versions/HVCkWxdX/obscure_tooltips-fabric-1.21.11-5.0.0.jar"
+hash-format = "sha512"
+hash = "f37bf24209d6de1f6099435c7819b35d4506bcb13e5cad5932e3ef9799c8728f3123860492fe91de02d2a8aa6e417dfc9835ddabfe67925fee4e572494116263"
 
 [update]
-[update.curseforge]
-file-id = 7639421
-project-id = 715660
+[update.modrinth]
+mod-id = "5vetjDBY"
+version = "HVCkWxdX"

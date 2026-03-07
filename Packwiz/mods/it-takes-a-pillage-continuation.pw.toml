@@ -3,11 +3,11 @@ filename = "takesapillage-fabric-1.0.10+mc1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "64a5c6777b2d2ec92b6cd1d0e90fb7dd475b2c1d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QOJOg1gE/versions/not6TKMO/takesapillage-fabric-1.0.10%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "4358b7a673ad2e57951d8d03955af8b0e3128da8e0c52d3be09abc4578ad883fcdfe402fb954235c3ab381fb453355323d96708ed9a04ac2993dadb5e595a8e6"
 
 [update]
-[update.curseforge]
-file-id = 7417037
-project-id = 1111063
+[update.modrinth]
+mod-id = "QOJOg1gE"
+version = "not6TKMO"

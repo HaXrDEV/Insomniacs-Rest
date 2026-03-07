@@ -3,11 +3,11 @@ filename = "awcapi-fabric-1.21.11-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c9711b356d9bd548f26069377e2d49de5222c67"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/UtjdGsKV/versions/4PMzfpA0/awcapi-fabric-1.21.11-1.0.2.jar"
+hash-format = "sha512"
+hash = "49d8e6b81aae7997e43a6b94d11a40c2f1ae8286041364534a5fb3cd1fed5cb202245564ab65ffe5e504ba232d5457f8f6eeb20ccc6bdc5031627ee9f4856612"
 
 [update]
-[update.curseforge]
-file-id = 7447350
-project-id = 1425144
+[update.modrinth]
+mod-id = "UtjdGsKV"
+version = "4PMzfpA0"

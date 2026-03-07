@@ -3,11 +3,11 @@ filename = "t_and_t-fabric-neoforge-1.13.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "101583aeea0b225828da7002df5d75f1ad844f8a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/vXLcy6ev/t_and_t-fabric-neoforge-1.13.8.jar"
+hash-format = "sha512"
+hash = "2ae7bdfea06e27a4e9d96fbbfd64271c46840ac04ccdf4c4e4407133c2e3e5c20f6b56fccae87afe2b5bc4c9e37a219de05ca37fd85962696db18d18255e4b0c"
 
 [update]
-[update.curseforge]
-file-id = 7341154
-project-id = 626761
+[update.modrinth]
+mod-id = "DjLobEOy"
+version = "vXLcy6ev"

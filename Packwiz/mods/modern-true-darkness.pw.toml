@@ -3,11 +3,11 @@ filename = "modern-true-darkness-fabric-1.0.0+mc1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "704ce8918121c10d4cf0423d9fd1f1a6964e36e8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/CdcstX1Q/versions/DwGugx2F/modern-true-darkness-fabric-1.0.0%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "0671d25299cd37f6a3a6fea6c468411e60cd2f23f5d35d5d93dc0f4066c910d1ba462fb45a195c98902efba7a0ec204e23acfdc001d92d0989101f291fe1bbe8"
 
 [update]
-[update.curseforge]
-file-id = 7651676
-project-id = 1453748
+[update.modrinth]
+mod-id = "CdcstX1Q"
+version = "DwGugx2F"

@@ -3,11 +3,11 @@ filename = "DnT-jungle-temple-overhaul-v2.1 [Fabric].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fe0fbefce4fbbe01327e33c930bf6c8be6ad444e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oHjYCS0f/versions/pvrni7rg/dungeons-and-taverns-jungle-temple-overhaul-v2.1.jar"
+hash-format = "sha512"
+hash = "3963c4fa6119c81532cbb9802628ffb6815512e5310dea82393afde7e2611645f894741d3eb3a3f27d8c4b8164dcfce9a71e149684da3ba0722f5c7e13bbe1b6"
 
 [update]
-[update.curseforge]
-file-id = 7053499
-project-id = 1053226
+[update.modrinth]
+mod-id = "oHjYCS0f"
+version = "pvrni7rg"

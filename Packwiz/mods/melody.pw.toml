@@ -3,11 +3,11 @@ filename = "melody_fabric_1.0.15_MC_1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f964abb4947c35b0d85051772c3ed72d6891cf51"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/Xo1GAiPu/melody_fabric_1.0.15_MC_1.21.11.jar"
+hash-format = "sha512"
+hash = "9a9ed54077daec16ea4ac6000cf40264d5bdaf97f0cc7b718d5062d538f0a09373bacedc276f43fe7ee4a9c14b4af7909a32b36c10d1b180d36f35b8a24a2a23"
 
 [update]
-[update.curseforge]
-file-id = 7368690
-project-id = 938643
+[update.modrinth]
+mod-id = "CVT4pFB2"
+version = "Xo1GAiPu"

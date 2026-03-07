@@ -3,11 +3,11 @@ filename = "harvest-with-ease-fabric-1.21.11-9.4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebd5ae33ea331060ae9df0799115898307def9dd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/89cktUq4/harvest-with-ease-fabric-1.21.11-9.4.0.jar"
+hash-format = "sha512"
+hash = "12bd8fccf61b68bf2ae8c903b8aea583f29324b8ed2487b6e32d3b7917e96319c97c2c2572fba071761646a5ed58c48004e0cda0e5acd67182956a01fb237a88"
 
 [update]
-[update.curseforge]
-file-id = 7667271
-project-id = 602171
+[update.modrinth]
+mod-id = "W4Ajthd2"
+version = "89cktUq4"

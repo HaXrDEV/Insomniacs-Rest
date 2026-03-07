@@ -3,11 +3,11 @@ filename = "scorchful-0.16.7+1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "babac99a4c6af4e78fd4dd58763c64d6182e592e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SZQ5qcdn/versions/8RRzW4s2/scorchful-0.16.7%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "dd39eed770851eb9221b45c6fcac59a6bdec9160df9cb8074224ffb918fa56e5ccf087c3c9a280351c3906eb4a630bc0d04619bef11208101fca1c2249183ca8"
 
 [update]
-[update.curseforge]
-file-id = 7608676
-project-id = 981400
+[update.modrinth]
+mod-id = "SZQ5qcdn"
+version = "8RRzW4s2"

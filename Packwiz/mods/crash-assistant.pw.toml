@@ -3,11 +3,11 @@ filename = "CrashAssistant-fabric-1.21.5-1.21.11-1.11.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2a34ae76fe8a3e4f55749990fd583c5ea745b9b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/iBeOwg9l/CrashAssistant-fabric-1.21.5-1.21.11-1.11.0.jar"
+hash-format = "sha512"
+hash = "9b4fea27b16c1823c34659217d53fe50146a2273760395e3c72f6bfa7c92a12979ea3d59120c5887c6d1cbb676ffd472c0d5ea262b87cf35427965fcaa80fac5"
 
 [update]
-[update.curseforge]
-file-id = 7717600
-project-id = 1154099
+[update.modrinth]
+mod-id = "ix1qq8Ux"
+version = "iBeOwg9l"

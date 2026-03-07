@@ -3,11 +3,11 @@ filename = "mavm-2.1.0+1.21.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4c49be75e93297c59572d2a326eddddb8d7d063"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zitu8weW/versions/2A8WEnde/mavm-2.1.0%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "14813f5cc7543b7cdd7f573e3f8ea0a9f41058582d9cf0a38bfba3ab4032fe862d7a389f23dbfb17db91eec7f326e981e584228882853210c4cea42291026fcd"
 
 [update]
-[update.curseforge]
-file-id = 7436863
-project-id = 498797
+[update.modrinth]
+mod-id = "zitu8weW"
+version = "2A8WEnde"

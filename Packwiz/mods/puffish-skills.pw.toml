@@ -3,11 +3,11 @@ filename = "puffish_skills-0.17.3-1.21.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "86c3772685d16f8846933b04ae03d2c5b8f5e62d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/TLf7EFGy/puffish_skills-0.17.3-1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "a7e09ba97a1e9e9cd74f97f12a2db7ef83d4756c2857337c7f41df1ca5bc3d2a0d870e784a67d7521a747f4b86f9d9a187078d9ec006b232263b469c55780115"
 
 [update]
-[update.curseforge]
-file-id = 7672796
-project-id = 835091
+[update.modrinth]
+mod-id = "hqQqvaa4"
+version = "TLf7EFGy"

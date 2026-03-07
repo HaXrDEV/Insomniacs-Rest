@@ -3,11 +3,11 @@ filename = "DnT-nether-fortress-overhaul-v3.1 [Fabric].jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b6bb22714dc19665ed4a85360a06b346e02fa00"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/3TBxftsp/dungeons-and-taverns-nether-fortress-overhaul-v3.1.jar"
+hash-format = "sha512"
+hash = "9533ee4ff7f4bc4507cb5bc0051e447550963b54dc023e6ad01baaa462d7633eb5c088bd20a5322500905b4b23f65ccbb7479ac30f1e5c58edbb6f783d5444c6"
 
 [update]
-[update.curseforge]
-file-id = 7053566
-project-id = 1053229
+[update.modrinth]
+mod-id = "8Dbnvm77"
+version = "3TBxftsp"

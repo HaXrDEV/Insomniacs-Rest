@@ -3,11 +3,11 @@ filename = "carryon-fabric-1.21.11-2.9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8ae93967a302ab5a036655f8bba469bbfcf817a5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/twgpqIAS/carryon-fabric-1.21.11-2.9.0.jar"
+hash-format = "sha512"
+hash = "2a73c5a12898ba2c613afe1a9dec559011946b4b7b1338328d4c279a7cb921be6c8c9789c1b35037a0aa826eb27efa1a45090d28fd27bf7dffd3bacebab4c676"
 
 [update]
-[update.curseforge]
-file-id = 7386195
-project-id = 274259
+[update.modrinth]
+mod-id = "joEfVgkn"
+version = "twgpqIAS"

@@ -3,11 +3,11 @@ filename = "AchievementOptimizer-fabric-1.21.11-2.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a8c127282cb24b61cb7f5a52ce76d255872f632"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SvXrP8rT/versions/udVKItNM/AchievementOptimizer-fabric-1.21.11-2.1.2.jar"
+hash-format = "sha512"
+hash = "0c2f125d5740ef1e2802e0149234c2a6acca8aba6f981aaa06d54f495d588f56b264a9cd1cab3253d9fe0a01a974c7715fb5e0cd1b656900ffed1fe367666306"
 
 [update]
-[update.curseforge]
-file-id = 7442978
-project-id = 912788
+[update.modrinth]
+mod-id = "SvXrP8rT"
+version = "udVKItNM"

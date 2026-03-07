@@ -3,11 +3,11 @@ filename = "followersteleporttoo-1.21.11-2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "058580274a55c3fabdbeed91ef715518a8ca9907"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/E5YVNsbH/versions/BxoH6we9/followersteleporttoo-1.21.11-2.7.jar"
+hash-format = "sha512"
+hash = "e9a9d75f2b387cf41970ef94df85d1a84ea63f8e26ac608f638e232f31f1eb90881b34f03f28c4e526f4c8feb21774ea14abda2ae5d52498d17b9ae94a1c3cb1"
 
 [update]
-[update.curseforge]
-file-id = 7318734
-project-id = 682198
+[update.modrinth]
+mod-id = "E5YVNsbH"
+version = "BxoH6we9"

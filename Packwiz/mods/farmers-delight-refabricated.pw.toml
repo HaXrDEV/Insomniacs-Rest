@@ -3,11 +3,11 @@ filename = "FarmersDelight-1.21.11-3.4.9+refabricated.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7c51a74bed32f4c55a22cc87690109c9379c682e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7vxePowz/versions/ZP4Uof9C/FarmersDelight-1.21.11-3.4.9%2Brefabricated.jar"
+hash-format = "sha512"
+hash = "732255187fdb84f71a5e22cb331d068a1a513e51c90e5970f2d31c424973dda3c2c16da49b02df582e23f5af9b8080bef79ef8e627b8ede6ddfcaddccaf245da"
 
 [update]
-[update.curseforge]
-file-id = 7660064
-project-id = 993166
+[update.modrinth]
+mod-id = "7vxePowz"
+version = "ZP4Uof9C"

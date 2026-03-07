@@ -3,11 +3,11 @@ filename = "starterstructure-1.21.11-4.4.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "33d5b13d44f712b10fa123205920395ee10e57e7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gi80Z09B/versions/RHNbOLvz/starterstructure-1.21.11-4.4.jar"
+hash-format = "sha512"
+hash = "6a43b81c44859f329476e850aa62fddc341b2d38f3e252d5ccce27899b5ef4de308ac101ef1bac9fd9e05133f7f0b30b4d7380497aed344d18fef862be829635"
 
 [update]
-[update.curseforge]
-file-id = 7318015
-project-id = 746391
+[update.modrinth]
+mod-id = "gi80Z09B"
+version = "RHNbOLvz"

@@ -3,11 +3,11 @@ filename = "OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "7c9001abfeaa2a4f1e9d0ade35f229bf9fab6118"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/Wtc9Dvls/OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "b4534cbbb9df0923b875a3783463791bb5f43c885f6a33dfe53bd0dbe052b682f4972be3d7b0e2cebcf2870791813b906626ac596d90904abbaf1b67bccac0ec"
 
 [update]
-[update.curseforge]
-file-id = 7347868
-project-id = 852662
+[update.modrinth]
+mod-id = "XD7XOrAF"
+version = "Wtc9Dvls"

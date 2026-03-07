@@ -3,11 +3,11 @@ filename = "ferritecore-8.2.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar"
+hash-format = "sha512"
+hash = "3210926a82eb32efd9bcebabe2f6c053daf5c4337eebc6d5bacba96d283510afbde646e7e195751de795ec70a2ea44fef77cb54bf22c8e57bb832d6217418869"
 
 [update]
-[update.curseforge]
-file-id = 7524516
-project-id = 459857
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "Ii0gP3D8"

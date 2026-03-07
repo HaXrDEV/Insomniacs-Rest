@@ -3,11 +3,11 @@ filename = "default-server-properties-fabric-21.0.0.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "5f4bb1d71801451dae5055abcd1ab5ff0e3aef31"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Fnrzx9Jl/versions/TSS8HzVX/default-server-properties-fabric-21.0.0.jar"
+hash-format = "sha512"
+hash = "1679557edcc293cb1502d32936bf11dd67030fde5b91284d8f66c738df9a9e6c462c4e9af8c6d4ead4d43298c4cd5172e82860250835c0ffc688a4bf0fa8ba64"
 
 [update]
-[update.curseforge]
-file-id = 5433008
-project-id = 676811
+[update.modrinth]
+mod-id = "Fnrzx9Jl"
+version = "TSS8HzVX"

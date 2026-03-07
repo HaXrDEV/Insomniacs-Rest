@@ -3,11 +3,11 @@ filename = "default_skill_trees-1.1-1.21.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "86bf007d20ef98ed5475f4bdeffe33410735d9be"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4w7YR25f/versions/qq3rD8sL/default_skill_trees-1.1-1.21.9.jar"
+hash-format = "sha512"
+hash = "0b49eca91c415a38b3399c8b9ce52db3703fe043c241eb5ea1a6d5865b6399e4de081678a8c25de46c4c79b6d42c5ce53240cbf9d70f24861d01ddf66a00b2d8"
 
 [update]
-[update.curseforge]
-file-id = 7297557
-project-id = 1074229
+[update.modrinth]
+mod-id = "4w7YR25f"
+version = "qq3rD8sL"

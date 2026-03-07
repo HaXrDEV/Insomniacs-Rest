@@ -3,11 +3,11 @@ filename = "PickUpNotifier-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "10047ff968823e49c5f0f97b2077a6654c74042f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZX66K16c/versions/2j46X7Ob/PickUpNotifier-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "49cf0053d20859584d05c02082225f26487c45682114d5022ffa00785132e455a56f28f988e507c37a8fa1941a56b91961b7bd81778ea6519475da09eb85447d"
 
 [update]
-[update.curseforge]
-file-id = 7338230
-project-id = 351441
+[update.modrinth]
+mod-id = "ZX66K16c"
+version = "2j46X7Ob"

@@ -3,11 +3,11 @@ filename = "xmxw-2.6.1+1.21.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0a9339c626d63e2052a623b974b953f98705e7da"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iv2jCzkP/versions/ATzw8uwY/xmxw-2.6.1%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "d569bbfd14b037c1a16a819400883d8d3ecefee0d2e3aefe6e749e8951a54ffed83bc40f7067dcd4bf032f831630083342eeb3fb451f3e04263b94df68a6d3b5"
 
 [update]
-[update.curseforge]
-file-id = 7662240
-project-id = 1340197
+[update.modrinth]
+mod-id = "iv2jCzkP"
+version = "ATzw8uwY"

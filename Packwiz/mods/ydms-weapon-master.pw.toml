@@ -3,11 +3,11 @@ filename = "weaponmaster_ydm-fabric-1.21.11-4.4.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qi1sj2da/versions/OsMQkl4P/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar"
+hash-format = "sha512"
+hash = "fd10910c53142fad211c7b51886cc9024efd2da1b97bd6a74f6b08d066c6fd8419d8f0653924a5ed861c39260821ce3275222890f66ae92589ea345eb058bdac"
 
 [update]
-[update.curseforge]
-file-id = 7357121
-project-id = 608235
+[update.modrinth]
+mod-id = "qi1sj2da"
+version = "OsMQkl4P"

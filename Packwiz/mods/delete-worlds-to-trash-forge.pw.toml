@@ -3,11 +3,11 @@ filename = "DeleteWorldsToTrash-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dc7ffd29df86f5d367788f0b354c4c1d759c1ac4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7diJQfvM/versions/YSVzSskA/DeleteWorldsToTrash-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "b0ba290c9d783dcbf21b29c02ef873635690257da8fa876546b9f6e6a1be8d63c4de5a9a4c6527e27c742f8c0a735c1fd2b454b14d6483719f238b61c755d7e6"
 
 [update]
-[update.curseforge]
-file-id = 7349643
-project-id = 571076
+[update.modrinth]
+mod-id = "7diJQfvM"
+version = "YSVzSskA"

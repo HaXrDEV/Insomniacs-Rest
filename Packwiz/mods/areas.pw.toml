@@ -3,11 +3,11 @@ filename = "areas-1.21.11-6.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a6744fd40298c5f5011fab5167e32e14e39d69fd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/kOWnexwt/areas-1.21.11-6.2.jar"
+hash-format = "sha512"
+hash = "a941606ab12f0171de3aae252436677077e236b9108a32f4b89deb19c847f61265ff067101009ce517e76d3c6a03a8cda90349c5fa668d473b112c972ed07f5d"
 
 [update]
-[update.curseforge]
-file-id = 7318935
-project-id = 391701
+[update.modrinth]
+mod-id = "NWvsqJ2Z"
+version = "kOWnexwt"

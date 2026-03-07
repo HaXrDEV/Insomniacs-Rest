@@ -3,11 +3,11 @@ filename = "improved-village-placement-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5225cdd0f18cabd290551ca93125dbdceb7a7755"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KA0MllEw/versions/kbweidhO/improved-village-placement-1.1.1.jar"
+hash-format = "sha512"
+hash = "5eb40701a7157ef08162443923a7e14f3fa72f9468112a64b3f81564a019528d3b3fe416c342aba7898afa0aadd3de22ee7a5394252478bb75579c6d96946266"
 
 [update]
-[update.curseforge]
-file-id = 7321283
-project-id = 1175325
+[update.modrinth]
+mod-id = "KA0MllEw"
+version = "kbweidhO"

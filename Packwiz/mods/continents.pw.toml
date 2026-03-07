@@ -3,11 +3,11 @@ filename = "Continents_1.21.x_v1.1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b681723c641bf9e9dcee58ed29a8f04dbe7c40e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/3hhSlpEU/Continents_1.21.x_v1.1.12.jar"
+hash-format = "sha512"
+hash = "11561bd4f8c1f315376a7807669397f5f4c9d2419df83597fbc073d7f59a51708b854ab7361e4e305bb91ec3c8dbbfd17bef5f28a95fa193f9ef5d5b32f9a1a4"
 
 [update]
-[update.curseforge]
-file-id = 7375530
-project-id = 682515
+[update.modrinth]
+mod-id = "bQ5TJA1E"
+version = "3hhSlpEU"

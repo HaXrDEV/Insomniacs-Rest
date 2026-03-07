@@ -3,11 +3,11 @@ filename = "sparsestructures-fabric-1.21.11-3.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e820d5bccd1bbfe4e0864a9e2fdb3ad253f453a4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qwvI41y9/versions/UmpdoyiZ/sparsestructures-fabric-1.21.11-3.1.1.jar"
+hash-format = "sha512"
+hash = "3a2a3653671b3ab2f32c4d7826c7a3ca9ba0496ca156183da6a5c9de1acac1d4d747580c0678e266e4e6630f9b25985962b85c83794d4ee8c1f528770649c418"
 
 [update]
-[update.curseforge]
-file-id = 7378700
-project-id = 911437
+[update.modrinth]
+mod-id = "qwvI41y9"
+version = "UmpdoyiZ"

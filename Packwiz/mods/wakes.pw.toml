@@ -3,11 +3,11 @@ filename = "wakes-0.5.1+1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d2cf78a2202aa2a8bd06eb25b79e0a02d31c0db"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/4zYKqDML/wakes-0.5.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "7492f5aa196643d2777ab6dded437d5201674ee4e44b0e36d9890ff1fb73243718e939f0bf0fc57fce2a71092725f93632805a963d03cce5e7baa828e7efcdf1"
 
 [update]
-[update.curseforge]
-file-id = 7674443
-project-id = 884267
+[update.modrinth]
+mod-id = "dlNu0RQY"
+version = "4zYKqDML"

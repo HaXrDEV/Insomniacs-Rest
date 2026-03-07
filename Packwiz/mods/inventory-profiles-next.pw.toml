@@ -3,11 +3,11 @@ filename = "InventoryProfilesNext-fabric-1.21.11-2.2.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "7835dac2b68a976a339856146f934e76f3e0e4b4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/hUyBZiaa/InventoryProfilesNext-fabric-1.21.11-2.2.3.jar"
+hash-format = "sha512"
+hash = "ea6eb09d27c1e53a56e1220e03f5364fa833c8cf6fc2fdd0c0352dab07fab66c9476c0aa7e70859e9bc6c785afa1cbb633a8820d671bb193de3286c5ffa9b891"
 
 [update]
-[update.curseforge]
-file-id = 7395942
-project-id = 495267
+[update.modrinth]
+mod-id = "O7RBXm3n"
+version = "hUyBZiaa"

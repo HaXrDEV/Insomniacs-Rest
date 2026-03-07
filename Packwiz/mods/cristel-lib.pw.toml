@@ -3,11 +3,11 @@ filename = "cristellib-fabric-1.21.11-3.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6b535f989b04a86ef9bf36c5ab421cd772d12e7f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/6vtzWpRI/cristellib-fabric-1.21.11-3.0.4.jar"
+hash-format = "sha512"
+hash = "401305ae1479864511615a60d6d9d72dca34b0a58db7affaeb1f9a5582eaff24b516e96b686bd1198f251653c7a5980d86a1407f684ab952c3c45e64f88ae6b6"
 
 [update]
-[update.curseforge]
-file-id = 7334419
-project-id = 856996
+[update.modrinth]
+mod-id = "cl223EMc"
+version = "6vtzWpRI"

@@ -3,11 +3,11 @@ filename = "nobz-fabric-BETA.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0e46aa06fdaf24dde8b15b929b6e3780fc6dc09d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SZNVsUyS/versions/3WeOBjTh/nobz-fabric-BETA.jar"
+hash-format = "sha512"
+hash = "b69187314480ceaf5c8f860a45b03bba9561c729cf3c8b4282337be8f3a22e96392f9756abd45e0e2eb93f53bd16040f1c1840d91686ddfe6d299cc97b6d05d2"
 
 [update]
-[update.curseforge]
-file-id = 7263307
-project-id = 959336
+[update.modrinth]
+mod-id = "SZNVsUyS"
+version = "3WeOBjTh"

@@ -3,11 +3,11 @@ filename = "thermoo-9.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5a12b3edc0678be9550d59e4fe090dc91a5130a8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9TbXlAut/versions/JXIL16Ku/thermoo-9.1.0.jar"
+hash-format = "sha512"
+hash = "697882cbeab4d05375507872819b9a1806c98a3e4f187f69d31482acf8ba5a60b5e29d9718ab0cbc65cadac3a739e2366918084511b9de2d0b018cfb52422c20"
 
 [update]
-[update.curseforge]
-file-id = 7657007
-project-id = 846544
+[update.modrinth]
+mod-id = "9TbXlAut"
+version = "JXIL16Ku"

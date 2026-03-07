@@ -3,11 +3,11 @@ filename = "randomvillagenames-1.21.11-4.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "994cd0df43c09ba336e923c830e20316e42335ca"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/N0ytbukx/versions/UYMtTwWQ/randomvillagenames-1.21.11-4.0.jar"
+hash-format = "sha512"
+hash = "d06e6e4cd3ac9730c8da277294f431736d77c4d5b9dbed304a7c8a4d7ea4d79ed7fbb1f43652d4253900668c46b56887b73e29d3c25f6bcd43b852ab6a48e2e1"
 
 [update]
-[update.curseforge]
-file-id = 7318954
-project-id = 452299
+[update.modrinth]
+mod-id = "N0ytbukx"
+version = "UYMtTwWQ"
