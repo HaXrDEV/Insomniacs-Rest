@@ -160,6 +160,7 @@
 - MixinTrace [Both]
 - Mob AI Tweaks [Both]
 - Modern True Darkness [Both]
+- ModernFix-mVUS [Both]
 - Mod Menu [Client]
 - More Armor Trims [Both]
 - More Culling [Client]

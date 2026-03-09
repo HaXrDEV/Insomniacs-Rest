@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "7dbef70639caaa1d9e469620aeca98f984fd37cdac743ed31cb40d1f25dde2d6"
+hash = "be5223133fb3ef2db356ea7e0cd9e800993eb2ac3cf8ad72f8a27afef8165178"
 
 [[files]]
 file = "config/darkness.json"
@@ -534,7 +534,7 @@ hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d6c36e6cc31e66fa87d439ef59aceed81372ea944fbaab36b8f2951b95382b3c"
+hash = "60ed18311ed0acec418d0ec882205ea8541edfb8f5ac95ba0de34ed341688b49"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Complementary r5.2.1 [Insomnia Edit].txt"
@@ -1353,6 +1353,11 @@ metafile = true
 [[files]]
 file = "mods/modern-true-darkness.pw.toml"
 hash = "d1cf770789d20b73f0471475153234016a1cb0b9b1d92304116d3455b00bbe0b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
 metafile = true
 
 [[files]]
