@@ -1,13 +1,13 @@
 name = "Boss Checklist"
-filename = "boss_checklist-3.4.0.jar"
+filename = "boss_checklist-4.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z1Dv56jq/versions/wZ7RgIoB/boss_checklist-3.4.0.jar"
+url = "https://cdn.modrinth.com/data/z1Dv56jq/versions/AqNTEaYo/boss_checklist-4.0.5.jar"
 hash-format = "sha512"
-hash = "4aa3a9e0379f93d2e5e2f265af46028e721c928a1dcfb9c755e953e42c5cfff15caf52f9d89d47f4e8d491ab721e66b1cc597f47d82c974843a2373e5e608580"
+hash = "5c4d72dca8b59d96e0d009976c68972f876d4cf91d99b85b37deb66f477e4aac0d682e96c4e795783ef1b732e2e7f7a1c0c95c236704630cc096cf2b3bf3e67f"
 
 [update]
 [update.modrinth]
 mod-id = "z1Dv56jq"
-version = "wZ7RgIoB"
+version = "AqNTEaYo"

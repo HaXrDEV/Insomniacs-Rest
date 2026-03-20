@@ -1,13 +1,13 @@
 name = "Explorer's Compass"
-filename = "ExplorersCompass-1.21.11-2.2.7-fabric.jar"
+filename = "ExplorersCompass-1.21.11-2.4.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RV1qfVQ8/versions/UEWzTWDE/ExplorersCompass-1.21.11-2.2.7-fabric.jar"
+url = "https://cdn.modrinth.com/data/RV1qfVQ8/versions/T9eILrdQ/ExplorersCompass-1.21.11-2.4.0-fabric.jar"
 hash-format = "sha512"
-hash = "8a06a50a10b2d79faf73a83389a6af6f2dd4c3bf2848eef4626363b15a130525d89d4be4e593b934f836ea20119b7f1d539a915cd6c090281ab963848456bfa9"
+hash = "3fadb3186640f7d1588adbab55322be2ea47104efb065f9fa6a1ea88c9c0e98ca9f1d7939900828b430de5beec92d00988bffe331815023fe0e46c0e7069a2b3"
 
 [update]
 [update.modrinth]
 mod-id = "RV1qfVQ8"
-version = "UEWzTWDE"
+version = "T9eILrdQ"
